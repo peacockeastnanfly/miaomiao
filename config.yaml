@@ -1,0 +1,6 @@
+# tk 通过抓包获取
+tk: "wxapptoken:10:6c8ea402ac91fadcafa5ddb10657f5e9_99457b6c51a0ec84b2cdd138d961dc70"
+# 开抢时间
+start_time: "2021-09-10 16:46:05"
+## 请求延时 毫秒
+delay: 300
